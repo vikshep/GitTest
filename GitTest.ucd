@@ -20,9 +20,13 @@
     <UserID>UC-1</UserID>
     <ParentID>P-a8444fb9-2542-4000-bdb6-d7ffb5457037</ParentID>
     <Name>Git Use Case</Name>
-    <Description>Use Case Git	</Description>
+    <Description>Use Case Git	.
+
+1st Change</Description>
     <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
-\viewkind4\uc1\pard\f0\fs20 Use Case Git\tab\par
+\viewkind4\uc1\pard\f0\fs20 Use Case Git\tab .\par
+\par
+1st Change\par
 }
 </RichDescription>
     <Sequence>0</Sequence>
@@ -38,7 +42,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2019-05-08T11:15:03.7419542+05:30</DateAdded>
-    <DateModified>2019-05-08T11:15:27.1683907+05:30</DateModified>
+    <DateModified>2019-05-08T11:18:45.3509012+05:30</DateModified>
   </UseCase>
   <Scenario>
     <UniqueID>MSS-0cb450f8-02b4-4d50-babb-13205d0d02d1</UniqueID>
